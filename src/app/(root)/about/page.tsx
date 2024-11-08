@@ -102,8 +102,7 @@ Föreningens firma tecknas av ordförande och kassör.
 
 **Verksamhets- och räkenskapsår:**
 
-Föreningens verksamhets- och räkenskapsår omfattar tiden 1 januari till
-och med 31 december.
+Föreningens verksamhets- och räkenskapsår omfattar tiden 1 juli till och med 30 juni.
 
 Styrelsen är vald för tiden från årsmötet till och med årsmötet
 påföljande år.
@@ -142,8 +141,8 @@ upplösande.
 
 **Tidpunkt och kallelse:**
 
-Årsmötet som är föreningens högsta beslutande organ, hålls 1:a veckan i
-februari på tid och plats som styrelsen bestämmer.
+Årsmötet som är föreningens högsta beslutande organ, ska hållas senast den sista oktober
+på tid och plats som styrelsen bestämmer.
 
 Kallelse till årsmötet skall av styrelsen senast tre veckor före mötet
 tillställas medlemmarna.
@@ -154,10 +153,11 @@ för föreningen eller dess medlemmar, skall det anges i kallelsen.
 
 **Förslag till ärende att behandlas av årsmötet:**
 
-Såväl medlem som styrelsen får avge motion att behandlas av årsmötet.
+Såväl medlemmar som styrelsen får avge en eller flera motioner att behandlas av årsmötet.
+Förslag från medlem ska vara styrelsen tillhanda senast två veckor före årsmötet.
+För att mötet ska vara giltigt ska medlemmar meddelas med möteshandlingar,
+motioner och dagordning, senast en vecka före årsmötet.
 
-Förslag från medlem skall vara styrelsen tillhandla senast fyra veckor
-före årsmötet.
 
 **Rösträtt samt yttrande- och förslagsrätt på årsmötet:**
 
@@ -259,8 +259,6 @@ förslagsrätt.
 
 **Kallelse beslutsmässighet och omröstning:**
 
-Kallelse skall ske 2-3 veckor innan styrelsemöte.
-
 Styrelsen sammanträder regelbundet, eller på kallelse av ordförande,
 eller genom ordföranden av i styrelsen sittande medlemmar.
 
@@ -298,9 +296,9 @@ Utbildningsutskottet, med ansvar för föreningensprogram.
 
 Dalophest, med ansvar för att främja gemenskapen inom föreningen.
 
-Ordförande av utskotten väljs av årsmötet. Ordförande skall sitta i
-styrelsen i form av adjungerad ledamot om denna ej redan håller en plats
-i styrelsen. Resterande medlemmar av utskottet tillsätts av styrelsen.
+Ordförande av utskotten utses av styrelsen. Ordförande skall sitta i styrelsen i form av
+adjungerad ledamot om denna ej redan håller en plats i styrelsen. Resterande
+medlemmar av utskottet tillsätts av utskottets ordförande.
 
 Utskotten skall rapportera till styrelsen vid varje styrelsemöte.
 

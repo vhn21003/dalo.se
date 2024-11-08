@@ -2,54 +2,55 @@ import Styrcard from "@/components/styrcard";
 import { IBoardAttributes, StyrelseMember } from "@/types/types";
 
 /*
-Tindra Wessman - Ordförande
-Elin Olsson - Vice ordförande
+Elin Olsson - Ordförande
+Johan Sandred - Vice ordförande
 Ida Rynger - Sekreterare
-Axel Lintjärn - Kassör
-Marcus Hammarström - Ledamot
-Dino Brankovic - Materialansvarig
-Oskar Sturebrand - Ledamot
-Albin Sedlacek - Ledamot
-Victor Herlin - Ledamot
-Robin Fransson - Suppleant
-Kevin Eriksson - Suppleant
+Linus Sjöö - Kassör
+Victor Herlin - Materialansvarig
+Axel Lindtjärn - Ledamot
+Lowe Göth - Ledamot
+Dino Brankovic - Ledamot
+Omar Farouq Salloum - Ledamot
+Tindra Wessman - Suppleant
+Marcus Hammarström - Suppleant
+Caroline Hautaniemi - Suppleant
 */
 
 const styrelse: StyrelseMember[] = [
   {
-    forename: "Robin",
-    surname: "Fransson",
-    nickname: "Mäster Sprut",
+    forename: "Marcus",
+    surname: "Hammarström",
+    nickname: "Äta Öl",
     role: "Suppleant",
-  },
-  {
-    forename: "Victor",
-    surname: "Herlin",
-    nickname: "2,5",
-    role: "Ledamot",
-  },
-  {
-    forename: "Oskar",
-    surname: "Sturebrand",
-    nickname: "Pippi",
-    role: "Ledamot",
-  },
-  {
-    forename: "Albin",
-    surname: "Sedlacek",
-    nickname: "Fredrik",
-    role: "Ledamot",
   },
   {
     forename: "Dino",
     surname: "Brankovic",
     nickname: "Race Condition",
+    role: "Ledamot",
+  },
+  {
+    forename: "Lowe",
+    surname: "Göth",
+    nickname: "Sniper",
+    role: "Ledamot",
+  },
+  {
+    forename: "Omar",
+    surname: "Farouq Salloum",
+    nickname: "Xzibit",
+    role: "Ledamot",
+  },
+  {
+    forename: "Victor",
+    surname: "Herlin",
+    nickname: "2,5",
     role: "Materialansvarig",
   },
   {
-    forename: "Axel",
-    surname: "Lintjärn",
-    nickname: "Shazam",
+    forename: "Linus",
+    surname: "Sjöö",
+    nickname: "FILO",
     role: "Kassör",
   },
   {
@@ -59,28 +60,34 @@ const styrelse: StyrelseMember[] = [
     role: "Sekreterare",
   },
   {
+    forename: "Johan",
+    surname: "Sandred",
+    nickname: "Nisse",
+    role: "Vice ordförande",
+  },
+  {
     forename: "Elin",
     surname: "Olsson",
     nickname: "Saft",
-    role: "Vice ordförande",
+    role: "Ordförande",
   },
   {
     forename: "Tindra",
     surname: "Wessman",
     nickname: "main{..}",
-    role: "Ordförande",
-  },
-  {
-    forename: "Kevin",
-    surname: "Eriksson",
-    nickname: "CATπ",
     role: "Suppleant",
   },
   {
-    forename: "Marcus",
-    surname: "Hammarström",
-    nickname: "ätaöl",
+    forename: "Axel",
+    surname: "Lindtjärn",
+    nickname: "Shazam",
     role: "Ledamot",
+  },
+  {
+    forename: "Caroline",
+    surname: "Hautaniemi",
+    nickname: "",
+    role: "Suppleant",
   },
 ];
 export default async function Styrelse() {
